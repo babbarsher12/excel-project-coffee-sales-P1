@@ -1,2 +1,38 @@
-# excel-project-coffee-sales-P1
-I developed an interactive Coffee Sales Dashboard in Excel to analyze revenue trends, customer performance, product performance, and sales across countries. Cleaned and transformed raw data using Excel, created Pivot Tables and built interactive visualizations using charts and slicers to support data-driven insights.
+# ☕ Coffee Sales Dashboard – Excel
+
+## 📌 Project Overview
+An interactive Coffee Sales Dashboard built in Microsoft Excel to analyze sales performance and identify key business trends.
+
+## 🎯 Project Objective
+To analyze coffee sales data and provide insights into revenue trends, product performance, customer behavior, and geographic sales performance through an interactive dashboard.
+
+## 🛠️ Tools & Skills
+- Microsoft Excel
+- Data Cleaning & Transformation
+- XLOOKUP
+- INDEX-MATCH
+- IF / IFS
+- SUMIF / SUMIFS
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+## 📊 Dashboard Insights
+- Revenue trends over time
+- Top customers by revenue
+- Sales performance by country
+- Coffee type and roast type performance
+- Impact of coffee size and loyalty-card membership
+- Interactive filtering using slicers
+
+## 📁 Project Files
+- `coffeeOrdersData.xlsx` – Excel dashboard and analysis
+- `README.md` – Project documentation
+- `dashboard screen.png` – Project documentation
+
+## 📷 Dashboard Preview
+The dashboard provides an interactive view of coffee sales performance using charts, Pivot Tables, and slicers.
+
+## 👩‍💻 Created By
+**Surbhi Babbar**
